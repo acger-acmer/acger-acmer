@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi there RED-BLACK👋
 
-<!--
-**acger-acmer/acger-acmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **acger-acmer/acger-acmer** is a ✨ _special_ ✨ repository... -->
 
-Here are some ideas to get you started:
+### 人形自走AI培养皿
+🎮`代码苦手·伪现役二次元·人工智障预备役`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **学术炼金工坊**  
+  `[❗] 正在炼制：线性回归猫粮配方`  
+  `[🛠️] 调试：会画梵高风格表情包的CNN`  
+  `[💥] 日常任务：阻止jupyter notebook自爆`
+
+- 🌱 **学习清单**  
+  ![](https://geps.dev/progress/34?dangerColor=ff3860&warningColor=ffdd57) Python驯化进度  
+  ![](https://geps.dev/progress/18?warningColor=ff3860) 数学咒语解析  
+  🎯 近期成就：一事无成ing...
+
+- 👯 **组队意向**  
+  🤝 急需队友破解《如何假装懂反向传播》  
+  🎨 寻找能把我代码变成艺术品的魔法师  
+  🎸 吉他弹唱《补药弹奏春日影》乐队成员募集！
+
+- 🤔 **生存指南需求**  
+  📜 跪求《计算机系逃生路线图》  
+  💻 急聘线性代数翻译官（英→萌）  
+  🆘 需要一个帮我按住Ctrl+S的条件反射训练师
+
+- 💬 **可提问话题**  
+  🧪 如何让月吃谷米心甘情愿下降  
+  🎮 Switch动漫游戏安利清单  
+  🎨 丙烯 vs 水彩的哭晕效果对比  
+  🏋️ 深蹲时背诵梯度下降的正确姿势
+
+- 📫 **召唤方式**  
+  📧：`[需通关验证]` 3493197703@qq.com  
+  🐧：`[暗号] 四夜是世界第一米`  
+  📱 微信：正在尝试用MNIST数据集解码二维码...
+
+- 😄 **人称代词**  
+  🤖 它/祂（当代码跑通时自动升级）  
+  🐱 喵/汪（取决于debug时长）  
+  🎭 前辈/佬%%%（仅在提交作业前有效）
+
+- ⚡ **暗黑技能**  
+  🕶️ 用素描本手推BP算法（草稿版）  
+  🎵 用吉他把SGD优化过程写成J-POP  
+  💪 健身时默写《神经网络的前世今生》  
+  🎮 连续爆肝72小时galgame的混沌体质
+
+### 野生技能树分支
+🎨 油画暴走族 | 🎸 弦乐退堂鼓艺术家 | 🏋️ 哑铃代码双修流  
+🔥 老二次元认证：这条命以内阅番4位数（含n部异世界厕纸）  
+🎵 JPOP浓度检测：YOASOBI全曲目声纹识别通过  
+🕹️ 游戏成就：崩铁+粥批+9批（雾）
